@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>Next.js on GitHub Pages</div>
+      <div>GitHub Pages Site Created by Ashish Shukla</div>
     </main>
   );
 }
